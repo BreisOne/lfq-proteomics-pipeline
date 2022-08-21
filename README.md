@@ -1,4 +1,5 @@
-# CRISPR Hela KO Alms1
+# Proteomic analysis of CRISPR Hela KO Alms1 after TGF-B stimulation
+
 All code and pipelines used to analyze and visualize proteomic data from my experiments with my first Crispr KO model
 
 <p align="center">
