@@ -1,7 +1,7 @@
 # CRISPR Hela KO Alms1
 All code and pipelines used to analyze and visualize proteomic data from my experiments with my first Crispr KO model
 
-<img aligment ="center" width="680" alt="image" src="https://user-images.githubusercontent.com/43313385/185793045-267fe5a0-4bc1-42bf-9f81-bf1ec2e682fa.png">
+<img class ="center" width="680" alt="image" src="https://user-images.githubusercontent.com/43313385/185793045-267fe5a0-4bc1-42bf-9f81-bf1ec2e682fa.png">
 
 Differenticial expression analysis was performed with DEP package:
 
